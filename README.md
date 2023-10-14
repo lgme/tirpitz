@@ -76,3 +76,6 @@ Password: tirpitzpassword
 ```
 
 ![reset-password-email-2](https://user-images.githubusercontent.com/68645347/89526219-156fe900-d7f0-11ea-87c3-b8589add9795.jpg)
+
+### Troubleshooting
+If you get redirected to home when calling from REST clients like Postman, just set header parameter "Accept: application/json". 
